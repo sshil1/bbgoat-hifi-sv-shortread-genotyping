@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "For the published historical V0.2.0 software snapshot, cite its Zenodo DOI. The current main branch contains subsequent documentation updates."
+title: "HiFi-informed structural-variant genotyping in 22 Black Bengal goats: computational companion"
+type: software
+authors:
+  - family-names: Shil
+    given-names: Sharadindu
+    orcid: https://orcid.org/0000-0002-6167-2244
+repository-code: https://github.com/sshil1/bbgoat-hifi-sv-shortread-genotyping
+keywords:
+  - Black Bengal goat
+  - structural variants
+  - Paragraph
+  - PacBio HiFi
+  - short-read genotyping

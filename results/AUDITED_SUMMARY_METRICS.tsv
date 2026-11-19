@@ -1,0 +1,17 @@
+metric	value
+animals	22
+SV_loci	96
+deletions	48
+insertions	48
+genotype_attempts	2112
+ft_pass	1645
+ft_pass_dp_ge10	1632
+FT20_loci	52
+conservative_loci	47
+variable_conservative_loci	39
+exclude_0078_loci	46
+variable_excluding_0078	39
+matched_platform_evaluable	63
+matched_platform_exact	50
+matched_platform_discordant	13
+annotation_96_loci_crosscheck_matches	96
